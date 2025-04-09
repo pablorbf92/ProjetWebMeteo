@@ -1,0 +1,26 @@
+
+
+body {
+	background-color: #ECFCCE; 
+}
+
+body > header > nav > ul{
+	background-color: #FFF9BF;
+}
+
+body > header > nav > ul > li > a:hover{	
+	background-color : #FFF386;
+}
+
+
+
+h2 {
+	color:#2C3E50; 
+}
+article{
+	background-color: #F2FFFF; 
+}
+
+
+
+
